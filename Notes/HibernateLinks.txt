@@ -1,0 +1,6 @@
+For Hibernate
+
+https://www.javatpoint.com/hibernate-tutorial
+https://mkyong.com/tutorials/hibernate-tutorials/
+https://docs.jboss.org/hibernate/orm/3.3/reference/en/html/tutorial.html
+https://www.viralpatel.net/hibernate-one-to-many-annotation-tutorial/
